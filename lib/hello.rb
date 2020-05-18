@@ -1,4 +1,4 @@
-def hello_t(names)
+def hello_t(array)
   names.each { |name| puts name }
 end
 
