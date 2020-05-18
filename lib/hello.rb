@@ -1,5 +1,5 @@
 def hello_t(names)
-  names.each 
+  names.each {
 end
 
 # call your method here!
